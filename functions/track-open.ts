@@ -9,7 +9,7 @@ export default async (req: any, res: any) => {
   console.log(`[TRACK] ${timestamp} Opened: ${msgId}`)
 
   // ⬇️ Log to Nhost via GraphQL API
-  await fetch('https://nwoayqextsttsxegfldd.hasura.eu-central-1.nhost.run/v1/graphql', {
+  await fetch('https://nwoayqextsttsxegfldd.graphql.eu-central-1.nhost.run/v1', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
