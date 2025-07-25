@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/ahmadmdabit/pixel.git",
   "author": "ahmadmdabit <ahmadmdabit@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
