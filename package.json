@@ -1,0 +1,8 @@
+{
+  "name": "pixel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahmadmdabit/pixel.git",
+  "author": "ahmadmdabit <ahmadmdabit@gmail.com>",
+  "license": "MIT"
+}
